@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.typesafe:config:1.4.5" type="java-imported" external-system-id="Maven">
+    <properties groupId="com.typesafe" artifactId="config" version="1.4.5" baseVersion="1.4.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.4.5/config-1.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.4.5/config-1.4.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.4.5/config-1.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

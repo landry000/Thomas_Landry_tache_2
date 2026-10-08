@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: io.scalecube:scalecube-cluster:2.6.15" type="java-imported" external-system-id="Maven">
+    <properties groupId="io.scalecube" artifactId="scalecube-cluster" version="2.6.15" baseVersion="2.6.15" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/scalecube/scalecube-cluster/2.6.15/scalecube-cluster-2.6.15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/scalecube/scalecube-cluster/2.6.15/scalecube-cluster-2.6.15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/scalecube/scalecube-cluster/2.6.15/scalecube-cluster-2.6.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.glassfish.tyrus.bundles:tyrus-standalone-client:2.2.2" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.glassfish.tyrus.bundles" artifactId="tyrus-standalone-client" version="2.2.2" baseVersion="2.2.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/tyrus/bundles/tyrus-standalone-client/2.2.2/tyrus-standalone-client-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/tyrus/bundles/tyrus-standalone-client/2.2.2/tyrus-standalone-client-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/tyrus/bundles/tyrus-standalone-client/2.2.2/tyrus-standalone-client-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: edu.mit.findstruct:findstructapi:0.0.1" type="java-imported" external-system-id="Maven">
+    <properties groupId="edu.mit.findstruct" artifactId="findstructapi" version="0.0.1" baseVersion="0.0.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/mit/findstruct/findstructapi/0.0.1/findstructapi-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/mit/findstruct/findstructapi/0.0.1/findstructapi-0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/mit/findstruct/findstructapi/0.0.1/findstructapi-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

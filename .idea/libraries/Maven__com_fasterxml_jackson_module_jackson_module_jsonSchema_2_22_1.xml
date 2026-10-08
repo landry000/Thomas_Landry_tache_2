@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.fasterxml.jackson.module:jackson-module-jsonSchema:2.22.1" type="java-imported" external-system-id="Maven">
+    <properties groupId="com.fasterxml.jackson.module" artifactId="jackson-module-jsonSchema" version="2.22.1" baseVersion="2.22.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-jsonSchema/2.22.1/jackson-module-jsonSchema-2.22.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-jsonSchema/2.22.1/jackson-module-jsonSchema-2.22.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-jsonSchema/2.22.1/jackson-module-jsonSchema-2.22.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

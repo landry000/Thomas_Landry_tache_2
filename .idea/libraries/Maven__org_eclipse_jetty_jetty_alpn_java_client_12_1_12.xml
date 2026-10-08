@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.jetty:jetty-alpn-java-client:12.1.12" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.eclipse.jetty" artifactId="jetty-alpn-java-client" version="12.1.12" baseVersion="12.1.12" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-alpn-java-client/12.1.12/jetty-alpn-java-client-12.1.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-alpn-java-client/12.1.12/jetty-alpn-java-client-12.1.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-alpn-java-client/12.1.12/jetty-alpn-java-client-12.1.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

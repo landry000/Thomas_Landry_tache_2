@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: jakarta.inject:jakarta.inject-api:2.0.1.MR" type="java-imported" external-system-id="Maven">
+    <properties groupId="jakarta.inject" artifactId="jakarta.inject-api" version="2.0.1.MR" baseVersion="2.0.1.MR" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/inject/jakarta.inject-api/2.0.1.MR/jakarta.inject-api-2.0.1.MR.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/inject/jakarta.inject-api/2.0.1.MR/jakarta.inject-api-2.0.1.MR-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/inject/jakarta.inject-api/2.0.1.MR/jakarta.inject-api-2.0.1.MR-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

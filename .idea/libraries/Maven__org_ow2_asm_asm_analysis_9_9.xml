@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.ow2.asm:asm-analysis:9.9" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.ow2.asm" artifactId="asm-analysis" version="9.9" baseVersion="9.9" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

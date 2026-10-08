@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.martensigwart:fakeload:0.7.0" type="java-imported" external-system-id="Maven">
+    <properties groupId="com.martensigwart" artifactId="fakeload" version="0.7.0" baseVersion="0.7.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/martensigwart/fakeload/0.7.0/fakeload-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/martensigwart/fakeload/0.7.0/fakeload-0.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/martensigwart/fakeload/0.7.0/fakeload-0.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

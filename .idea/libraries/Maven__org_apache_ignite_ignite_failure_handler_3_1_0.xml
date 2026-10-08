@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.ignite:ignite-failure-handler:3.1.0" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.apache.ignite" artifactId="ignite-failure-handler" version="3.1.0" baseVersion="3.1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/ignite/ignite-failure-handler/3.1.0/ignite-failure-handler-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/ignite/ignite-failure-handler/3.1.0/ignite-failure-handler-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/ignite/ignite-failure-handler/3.1.0/ignite-failure-handler-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

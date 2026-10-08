@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: tw.edu.ntu.csie:libsvm:3.31" type="java-imported" external-system-id="Maven">
+    <properties groupId="tw.edu.ntu.csie" artifactId="libsvm" version="3.31" baseVersion="3.31" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/tw/edu/ntu/csie/libsvm/3.31/libsvm-3.31.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/tw/edu/ntu/csie/libsvm/3.31/libsvm-3.31-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/tw/edu/ntu/csie/libsvm/3.31/libsvm-3.31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

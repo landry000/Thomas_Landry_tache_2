@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.osgi:org.osgi.util.tracker:1.5.4" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.osgi" artifactId="org.osgi.util.tracker" version="1.5.4" baseVersion="1.5.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/osgi/org.osgi.util.tracker/1.5.4/org.osgi.util.tracker-1.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/osgi/org.osgi.util.tracker/1.5.4/org.osgi.util.tracker-1.5.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/osgi/org.osgi.util.tracker/1.5.4/org.osgi.util.tracker-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

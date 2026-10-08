@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.fasterxml.woodstox:woodstox-core:7.2.2" type="java-imported" external-system-id="Maven">
+    <properties groupId="com.fasterxml.woodstox" artifactId="woodstox-core" version="7.2.2" baseVersion="7.2.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/woodstox/woodstox-core/7.2.2/woodstox-core-7.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/woodstox/woodstox-core/7.2.2/woodstox-core-7.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/woodstox/woodstox-core/7.2.2/woodstox-core-7.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

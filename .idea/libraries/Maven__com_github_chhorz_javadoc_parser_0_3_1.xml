@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.chhorz:javadoc-parser:0.3.1" type="java-imported" external-system-id="Maven">
+    <properties groupId="com.github.chhorz" artifactId="javadoc-parser" version="0.3.1" baseVersion="0.3.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/chhorz/javadoc-parser/0.3.1/javadoc-parser-0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/chhorz/javadoc-parser/0.3.1/javadoc-parser-0.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/chhorz/javadoc-parser/0.3.1/javadoc-parser-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

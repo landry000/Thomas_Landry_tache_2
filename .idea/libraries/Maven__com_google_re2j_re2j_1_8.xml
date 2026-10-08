@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.re2j:re2j:1.8" type="java-imported" external-system-id="Maven">
+    <properties groupId="com.google.re2j" artifactId="re2j" version="1.8" baseVersion="1.8" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/re2j/re2j/1.8/re2j-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/re2j/re2j/1.8/re2j-1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/re2j/re2j/1.8/re2j-1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

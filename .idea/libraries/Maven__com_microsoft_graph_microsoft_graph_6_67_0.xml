@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.microsoft.graph:microsoft-graph:6.67.0" type="java-imported" external-system-id="Maven">
+    <properties groupId="com.microsoft.graph" artifactId="microsoft-graph" version="6.67.0" baseVersion="6.67.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/graph/microsoft-graph/6.67.0/microsoft-graph-6.67.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/graph/microsoft-graph/6.67.0/microsoft-graph-6.67.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/graph/microsoft-graph/6.67.0/microsoft-graph-6.67.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.healthmarketscience.jackcess:jackcess-encrypt:4.0.3" type="java-imported" external-system-id="Maven">
+    <properties groupId="com.healthmarketscience.jackcess" artifactId="jackcess-encrypt" version="4.0.3" baseVersion="4.0.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/healthmarketscience/jackcess/jackcess-encrypt/4.0.3/jackcess-encrypt-4.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/healthmarketscience/jackcess/jackcess-encrypt/4.0.3/jackcess-encrypt-4.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/healthmarketscience/jackcess/jackcess-encrypt/4.0.3/jackcess-encrypt-4.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: edu.ucar:jj2000:5.2" type="java-imported" external-system-id="Maven">
+    <properties groupId="edu.ucar" artifactId="jj2000" version="5.2" baseVersion="5.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/ucar/jj2000/5.2/jj2000-5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/ucar/jj2000/5.2/jj2000-5.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/ucar/jj2000/5.2/jj2000-5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
