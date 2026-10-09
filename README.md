@@ -1,8 +1,8 @@
 # IFT3913 – Tâche 2 : tests générés par IA et analyse de mutation sur Apache Tika
 
-**Équipe :** Thomas Ring, Vianney Landry Ntebou Soutsing
-**Classe étudiée :** `org.apache.tika.utils.XMLReaderUtils` (module `tika-core`)
-**Outils :** ChatUniTest (modèle `code-llama` exécuté localement avec Ollama), pitest 1.17.4, JUnit 5, JDK 17
+# **Équipe :** Thomas Ring, Vianney Landry Ntebou Soutsing
+# **Classe étudiée :** `org.apache.tika.utils.XMLReaderUtils` (module `tika-core`)
+# **Outils :** ChatUniTest (modèle `code-llama` exécuté localement avec Ollama), pitest 1.17.4, JUnit 5, JDK 17
 
 
 
