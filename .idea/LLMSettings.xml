@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LLMSettingsState">
+    <option name="classPrompts" value="[&quot;Generate unit tests in $LANGUAGE for $NAME to achieve 100% line coverage for this class.\nDont use @Before and @After test methods.\nMake tests as atomic as possible.\nAll tests should be for $TESTING_PLATFORM.\nIn case of mocking, use $MOCKING_FRAMEWORK. But, do not use mocking for all tests.\nName all methods according to the template - [MethodUnderTest][Scenario]Test, and use only English letters.\nThe source code of class under test is as follows:\n$CODE\n$METHODS\n$POLYMORPHISM\n$TEST_SAMPLE&quot;]" />
+    <option name="linePrompts" value="[&quot;Generate unit tests in $LANGUAGE for the line $NAME in the following code:\n$CODE\nDont use @Before and @After test methods.\nMake tests as atomic as possible.\nAll tests should be for $TESTING_PLATFORM.\nIn case of mocking, use $MOCKING_FRAMEWORK. But, do not use mocking for all tests.\nName all methods according to the template - [MethodUnderTest][Scenario]Test, and use only English letters.\n$METHODS\n$POLYMORPHISM\n$TEST_SAMPLE&quot;]" />
+    <option name="methodPrompts" value="[&quot;Generate unit tests in $LANGUAGE for $NAME to achieve 100% line coverage for this method.\nDont use @Before and @After test methods.\nMake tests as atomic as possible.\nAll tests should be for $TESTING_PLATFORM.\nIn case of mocking, use $MOCKING_FRAMEWORK. But, do not use mocking for all tests.\nName all methods according to the template - [MethodUnderTest][Scenario]Test, and use only English letters.\nThe source code of method under test is as follows:\n$CODE\n$METHODS\n$POLYMORPHISM\n$TEST_SAMPLE&quot;]" />
+  </component>
+</project>
