@@ -370,7 +370,7 @@ public class XMLReaderUtilsManualTest {
         void run() throws Exception;
     }
 
-    // remet toujours l'état statique du pool, partagé par tous les tests
+
     private static void withPool(int size, int maxReuses, PoolTest t) throws Exception {
         int oldSize = XMLReaderUtils.getPoolSize();
         int oldReuses = XMLReaderUtils.getMaxNumReuses();
@@ -403,7 +403,6 @@ public class XMLReaderUtilsManualTest {
         }
     }
 
-// ---------- buildDOM : les quatre surcharges ----------
 
     @Test
     public void buildDOMFromStreamReturnsDocumentAndReleasesBuilder() throws Exception {
@@ -454,7 +453,7 @@ public class XMLReaderUtilsManualTest {
         });
     }
 
-// ---------- parseSAX : les deux surcharges ----------
+
 
     @Test
     public void parseSAXFromStreamDeliversEventsAndReleasesParser() throws Exception {
@@ -487,7 +486,7 @@ public class XMLReaderUtilsManualTest {
         });
     }
 
-// ---------- réutilisation : incrementUses et >= MAX_NUM_REUSES ----------
+
 
     @Test
     public void saxParserIsRecycledThenReplacedAtMaxReuses() throws Exception {
@@ -501,7 +500,7 @@ public class XMLReaderUtilsManualTest {
     }
 
 
-// ---------- setPoolSize et accesseurs ----------
+
 
     @Test
     public void setPoolSizeRebuildsBothPools() throws Exception {
@@ -541,7 +540,7 @@ public class XMLReaderUtilsManualTest {
         }
     }
 
-// ---------- verrous (remplace le test de mon message précédent) ----------
+
 
     @Test
     public void locksAreReleasedAfterUse() throws Exception {
@@ -592,7 +591,6 @@ public class XMLReaderUtilsManualTest {
         @Override public boolean getFeature(String n) { return false; }
     }
 
-    // appelle deux fois : la première doit journaliser, la seconde être bloquée par la limite de 5 min
     private static void assertWarningThrottled(String method, Class<?> type, Object target)
         throws Exception {
         Field last = XMLReaderUtils.class.getDeclaredField("LAST_LOG");
@@ -606,7 +604,7 @@ public class XMLReaderUtilsManualTest {
         assertEquals(first, last.getLong(null));
     }
 
-// ---------- DocumentBuilderFactory (lignes 851 et 856) ----------
+
 
     @Test
     public void dbfEntityExpansionLimitAttributeIsSet() throws Exception {
@@ -623,7 +621,7 @@ public class XMLReaderUtilsManualTest {
         assertWarningThrottled("trySetXercesSecurityManager", DocumentBuilderFactory.class, f);
     }
 
-// ---------- SAXParser (lignes 896 et 900), avec le FakeSAXParser de la réponse précédente ----------
+
 
     @Test
     public void saxParserEntityExpansionLimitPropertyIsSet() throws Exception {
@@ -641,7 +639,7 @@ public class XMLReaderUtilsManualTest {
         assertWarningThrottled("trySetXercesSecurityManager", SAXParser.class, p);
     }
 
-// ---------- StAX (lignes 911 à 917) ----------
+
 
     @Test
     public void staxFallsBackToWoodstoxPropertyWhenJdkOneIsRejected() throws Exception {
@@ -678,7 +676,7 @@ public class XMLReaderUtilsManualTest {
                 f.setAccessible(true);
                 return f;
             } catch (NoSuchFieldException e) {
-                // on remonte dans la hiérarchie
+
             }
         }
         throw new NoSuchFieldException(name);
