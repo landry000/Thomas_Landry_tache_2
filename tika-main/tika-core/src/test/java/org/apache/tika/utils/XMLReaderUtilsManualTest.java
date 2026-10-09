@@ -669,19 +669,5 @@ public class XMLReaderUtilsManualTest {
 
 
 
-    private static Field findField(Class<?> c, String name) throws Exception {
-        for (Class<?> k = c; k != null; k = k.getSuperclass()) {
-            try {
-                Field f = k.getDeclaredField(name);
-                f.setAccessible(true);
-                return f;
-            } catch (NoSuchFieldException e) {
-
-            }
-        }
-        throw new NoSuchFieldException(name);
-    }
-
-
 
 }
